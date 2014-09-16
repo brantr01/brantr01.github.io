@@ -1,0 +1,22 @@
+        h1{
+	color:purple;
+	background-color:blue;
+	font-size: 30pt;
+        h2{
+	color: red;
+    background-color:blue;
+	font-size: 26pt;
+	}
+	h3{
+	color: yellow;
+    background-color:blue;
+	font-size: 22pt;
+	}
+	h4{
+	color: lime;
+    background-color:blue;
+	font-size: 18pt;
+	}
+       body{
+       background-color: cyan;
+       }
