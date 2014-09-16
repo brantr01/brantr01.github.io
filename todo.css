@@ -18,13 +18,23 @@
     background-color:blue;
 	font-size: 18pt;
 	}
-       body{
-       background-color: cyan;
-       }
-	li#High{
-
-
+        body{
+        background-image: url("http://cloud-4.steampowered.com/ugc/576741295347131351/22D4ED7C3615DACF89BC9FEA53A9F48296C0F18A/1024x576.resizedimage")
+        }
+	li.high{
+	color:red;
+	font-size: 22pt;
+	}
+	li.medium{
+	color: yellow;
+	font-size: 18pt;
+	}
+	li.low{
+	color: green;
+	font-size: 14pt;
+	}
+	li.complete{
+	text-decoration: line-through;
+	}
 
 </style>
-	color: red;
-	
