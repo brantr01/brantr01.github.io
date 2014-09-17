@@ -1,21 +1,26 @@
         <style>
         h1{
 	color:purple;
-	background-color: blue;
+	background-color: black;
+	width:200px;
 	font-size: 30pt;
+        }
         h2{
 	color: red;
-    background-color:blue;
+    background-color:black;
+	width: 250px;
 	font-size: 26pt;
 	}
 	h3{
 	color: yellow;
-    background-color:blue;
+    background-color:black;
+	width: 250px;
 	font-size: 22pt;
 	}
 	h4{
 	color: lime;
-    background-color:blue;
+    background-color:black;
+	width: 250px;
 	font-size: 20pt;
 	}
         body{
@@ -36,5 +41,4 @@
 	li.complete{
 	text-decoration: line-through;
 	}
-
 </style>
